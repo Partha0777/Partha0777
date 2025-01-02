@@ -5,7 +5,7 @@
 
 <!-- Centered Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=b2cafe&center=true&vCenter=true&lines=Hey+there,+I'm+Partha!;Mobile+App+Engineer;Expert+in+Android%2C+Flutter%2C+KMP" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=b2cafe&center=true&vCenter=true&lines=Hey+there,+I'm+Partha!;Mobile+App+Engineer;Expert+in+Android%2C+Flutter%2C+KMP" alt="Typing SVG">
 </p>
 
 <!-- Cool Gif or Image (optional) -->
@@ -13,6 +13,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px" />
 </p>
 
+<p align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50px" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="50px" />
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" />
+
+
+</p>
 ---
 
 ## About Me
