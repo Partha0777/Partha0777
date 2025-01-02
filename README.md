@@ -51,7 +51,7 @@
 ## Connect with Me 
 <p align="center">
   <!-- Replace the links below with your actual socials -->
-  <a href="https://linkedin.com/in/partha0777" target="_blank">
+  <a href="https://linkedin.com/in/parthasarathi04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rps.parthasarathi@example.com" target="_blank">
