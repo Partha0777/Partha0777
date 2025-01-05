@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=b2cafe&center=true&vCenter=true&lines=Hey+there,+I'm+Partha!;Mobile+App+Engineer;Expert+in+Android%2C+Flutter%2C+KMP" alt="Typing SVG">
 </p>
 
-<!-- Cool Gif or Image (optional) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200px" />
-</p>
 
 <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50px" />
@@ -20,7 +16,7 @@
 
 
 </p>
----
+
 
 ## About Me
 - **Profession:** Mobile App Engineer  
@@ -62,6 +58,12 @@ I’m passionate about **building scalable, user-friendly apps** that deliver an
 - **Maintenance**: Code that’s easy to evolve and maintain over time.
 
 ---
+
+<!-- Cool Gif or Image (optional) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200px" />
+</p>
+
 
 ## Get in Touch 
 <p align="center">
