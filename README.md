@@ -50,13 +50,11 @@ I’m passionate about **building scalable, user-friendly apps** that deliver an
 </p>
 
 ---
-
 ## Mobile App Magic
 - **Cross-platform**: Write once, adapt anywhere.
 - **Performance**: Smooth animations and quick load times are a must.
 - **Design**: Clean, intuitive UI and delightful user experience.
 - **Maintenance**: Code that’s easy to evolve and maintain over time.
-
 ---
 
 <!-- Cool Gif or Image (optional) -->
