@@ -51,7 +51,6 @@ I’m passionate about **building scalable, user-friendly apps** that deliver an
   <a href="https://twitter.com/username"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
 
-
 <p align="center">
   <b>Thanks for stopping by!</b>
 </p>
