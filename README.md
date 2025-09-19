@@ -9,8 +9,6 @@
 </p>
 
 
-
-
 ## About Me
 - **Profession:** Mobile App Engineer  
 - **Expertise:** Android, Flutter, Kotlin Multiplatform (KMP)  
