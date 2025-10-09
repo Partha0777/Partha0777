@@ -47,6 +47,7 @@ I’m passionate about **building scalable, user-friendly apps** that deliver an
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200px" />
 </p>
 
+
 ## Get in Touch 
 <p align="center">
   <a href="mailto:rps.parthasarathi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
