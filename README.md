@@ -19,6 +19,7 @@
 I’m passionate about **building scalable, user-friendly apps** that deliver an engaging experience. My goal? **Create once, run everywhere**—keeping performance, maintainability, and design at the forefront.
 
 
+
 ## Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/>
