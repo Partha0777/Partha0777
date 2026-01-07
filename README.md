@@ -34,7 +34,6 @@ I’m passionate about **building scalable, user-friendly apps** that deliver an
 </p>
 
 
-
 ## Mobile App Magic
 - **Cross-platform**: Write once, adapt anywhere.
 - **Performance**: Smooth animations and quick load times are a must.
