@@ -15,7 +15,6 @@
 - **Languages & Tools:** Java, Kotlin, Dart  
 - **Approach:** Focus on clean code, great UX, and cross-platform synergy
 
-
 I’m passionate about **building scalable, user-friendly apps** that deliver an engaging experience. My goal? **Create once, run everywhere**—keeping performance, maintainability, and design at the forefront.
 
 ## Technologies
