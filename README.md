@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=b2cafe&center=true&vCenter=true&lines=Hey+there,+I'm+Partha!;Mobile+App+Engineer;Expert+in+Android%2C+Flutter%2C+KMP" alt="Typing SVG">
 </p>
 
+
 <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50px" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="50px" />
